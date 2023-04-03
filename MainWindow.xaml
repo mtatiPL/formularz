@@ -1,0 +1,19 @@
+﻿<Window x:Class="kartkowka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kartkowka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center">Generowanie Hasła (przynajmniej 4 litery)</TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center">Podaj długość hasła <TextBox Width="75" x:Name="l"></TextBox></TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center"><CheckBox IsChecked="True" IsEnabled="False" x:Name="male"></CheckBox> Małe litery</TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center"><CheckBox x:Name="duze"></CheckBox> Duże litery</TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center"><CheckBox x:Name="znaki"></CheckBox> Znaki specjalne</TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="28" HorizontalAlignment="Center"><CheckBox x:Name="cyfry"></CheckBox> Cyfry</TextBlock>
+        <TextBlock DockPanel.Dock="Top" FontSize="50" Margin="50" HorizontalAlignment="Center"><Button Click="Generuj">Generuj hasło</Button></TextBlock>
+
+    </DockPanel>
+</Window>

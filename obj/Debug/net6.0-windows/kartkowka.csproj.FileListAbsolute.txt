@@ -1,0 +1,42 @@
+C:\Users\programista\source\repos\kartkowka\kartkowka\bin\Debug\net6.0-windows\kartkowka.exe
+C:\Users\programista\source\repos\kartkowka\kartkowka\bin\Debug\net6.0-windows\kartkowka.deps.json
+C:\Users\programista\source\repos\kartkowka\kartkowka\bin\Debug\net6.0-windows\kartkowka.runtimeconfig.json
+C:\Users\programista\source\repos\kartkowka\kartkowka\bin\Debug\net6.0-windows\kartkowka.dll
+C:\Users\programista\source\repos\kartkowka\kartkowka\bin\Debug\net6.0-windows\kartkowka.pdb
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.csproj.AssemblyReference.cache
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka_MarkupCompile.cache
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka_MarkupCompile.lref
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.g.resources
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.AssemblyInfoInputs.cache
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.AssemblyInfo.cs
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.csproj.CoreCompileInputs.cache
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.dll
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\refint\kartkowka.dll
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.pdb
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\kartkowka.genruntimeconfig.cache
+C:\Users\programista\source\repos\kartkowka\kartkowka\obj\Debug\net6.0-windows\ref\kartkowka.dll
+E:\Games\kody vs\formularze\bin\Debug\net6.0-windows\kartkowka.exe
+E:\Games\kody vs\formularze\bin\Debug\net6.0-windows\kartkowka.deps.json
+E:\Games\kody vs\formularze\bin\Debug\net6.0-windows\kartkowka.runtimeconfig.json
+E:\Games\kody vs\formularze\bin\Debug\net6.0-windows\kartkowka.dll
+E:\Games\kody vs\formularze\bin\Debug\net6.0-windows\kartkowka.pdb
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.csproj.AssemblyReference.cache
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\App.g.cs
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka_MarkupCompile.cache
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka_MarkupCompile.lref
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.g.resources
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.AssemblyInfoInputs.cache
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.AssemblyInfo.cs
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.csproj.CoreCompileInputs.cache
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.dll
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\refint\kartkowka.dll
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.pdb
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\kartkowka.genruntimeconfig.cache
+E:\Games\kody vs\formularze\obj\Debug\net6.0-windows\ref\kartkowka.dll
